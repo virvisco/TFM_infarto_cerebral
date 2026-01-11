@@ -54,7 +54,8 @@ header-includes:
 {\LARGE \textbf{Trabajo Fin de Máster}}\\[0.8cm]
 {\Huge \textbf{Predicción de la ocurrencia de infarto cerebral}}\\
 \vspace{1.5cm}
-{\large \textbf{Directora:} Sara López}\\
+{\large \textbf{Tutora:} Sara López}\\
+{\large \textbf{Autora:} Virginia Visiedo Collazos}\\
 \vfill
 
 {\large Curso académico 2024--2025}\\[0.2cm]
